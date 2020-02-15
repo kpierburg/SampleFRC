@@ -1,4 +1,6 @@
 # SampleFRC
 Sample Website fo the FRC Team
 History:
-Initial Edit from GitHub Web
+<ul>
+  <li>Initial Edit from GitHub Web<li>
+<ul>
